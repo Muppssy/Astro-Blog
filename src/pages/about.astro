@@ -1,6 +1,7 @@
 ---
 import'../style/global.css'
 import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
 const pageTitle = "À propos de moi";
 
 const identity = {
@@ -26,9 +27,9 @@ const textCase = "uppercase";
     <meta name="viewport" content="width=device-width" />
     <title>{pageTitle}</title>
   </head>
-  <body>
+  <>
     <Navigation />
-    
+
     <h1>{pageTitle}</h1>
     <h2>... et de mon nouveau site Astro !</h2>
 
@@ -69,6 +70,8 @@ const textCase = "uppercase";
     text-transform: var(--textCase);
   }
   </style>
+
+  <Footer/>
   </body>
 
 </html>

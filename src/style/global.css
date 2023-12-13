@@ -25,3 +25,10 @@ h1 {
 ul, p{
     margin-top: 1.3rem;
 }
+
+footer{
+    background-color: #dbdada;
+    padding: 0.5rem;
+    margin-top: 2rem;
+
+}
