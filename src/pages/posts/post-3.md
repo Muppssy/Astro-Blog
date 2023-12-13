@@ -2,9 +2,7 @@
 title: Mon troisième article de blog
 author: Apprenti Astro
 description: "J'ai eu quelques défis, mais demander de l'aide à la communauté m'a vraiment aidé !"
-image:
-    url: "https://docs.astro.build/assets/rays.webp"
-    alt: "Vignette des rayons Astro."
+
 pubDate: 2022-07-15
 tags: ["astro", "apprentissage en public", "obstacles", "communauté"]
 ---
