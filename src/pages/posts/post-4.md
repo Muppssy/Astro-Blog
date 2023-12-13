@@ -1,5 +1,5 @@
 ---
-title: Mon troisième article de blog
+title: Ce site est incroyable
 author: Apprenti Astro
 description: "J'ai eu quelques défis, mais demander de l'aide à la communauté m'a vraiment aidé !"
 image:
